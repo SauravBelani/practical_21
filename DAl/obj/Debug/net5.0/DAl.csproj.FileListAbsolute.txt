@@ -1,0 +1,15 @@
+C:\Users\saurav\source\repos\practical_21\DAl\bin\Debug\net5.0\DAl.deps.json
+C:\Users\saurav\source\repos\practical_21\DAl\bin\Debug\net5.0\DAl.runtimeconfig.json
+C:\Users\saurav\source\repos\practical_21\DAl\bin\Debug\net5.0\DAl.runtimeconfig.dev.json
+C:\Users\saurav\source\repos\practical_21\DAl\bin\Debug\net5.0\DAl.dll
+C:\Users\saurav\source\repos\practical_21\DAl\bin\Debug\net5.0\ref\DAl.dll
+C:\Users\saurav\source\repos\practical_21\DAl\bin\Debug\net5.0\DAl.pdb
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.csproj.AssemblyReference.cache
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.AssemblyInfoInputs.cache
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.AssemblyInfo.cs
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.csproj.CoreCompileInputs.cache
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.dll
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\ref\DAl.dll
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.pdb
+C:\Users\saurav\source\repos\practical_21\DAl\obj\Debug\net5.0\DAl.genruntimeconfig.cache
